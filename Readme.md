@@ -1,2 +1,2 @@
 readme.md
-JUSST A README
+JUSST A READM
